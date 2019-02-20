@@ -38,5 +38,3 @@ function fillData() {
     console.log(myMessages);
   });
 }
-
-document.addEventListener("click", fillData);
