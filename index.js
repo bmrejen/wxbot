@@ -35,6 +35,6 @@ function fillData() {
     const date = Date.now();
 
     myMessages.push({text, senderId, msgId, msgType, sender, date});
-    console.log("test");
+
   });
 }
